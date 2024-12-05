@@ -1,0 +1,16 @@
+
+name = input("Enter your full name: ")
+gap = input("Enter your age: ")
+gender = input("Enter your gender: ")
+bday = input("Ent-er your Birthdate : ")
+birthplace = input("Enter your birthplace: ")
+address = input("Enter your address: ")
+m_name = input("Enter your mother's name: ")
+f_name = input("Enter your father's name: ")
+heigth = input("Enter your height: ")
+weight = input("Enter your weight :")
+civil = input("Enter your civil status: ")
+religion = input("Enter your full name: ")
+phone_number = input("Enter your phone number: ")
+
+print("hello, my name is", name , "a",  )
